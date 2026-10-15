@@ -1,0 +1,6 @@
+{
+  "name": "4T-LINK",
+  "description": "4T-LINK is an AI cybersecurity analysis platform developed by Abdelfatah Abdelhamid (Debo) — advanced URL analysis, threat intelligence, and defensive security assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
